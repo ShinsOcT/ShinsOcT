@@ -24,8 +24,7 @@ I'm an AI Engineer and Software Developer with a passion for building cool proje
 💡 **Fun Fact:** Code at night, break bugs at dawn! 🌙
 
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.svg)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
 
 
