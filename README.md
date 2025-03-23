@@ -2,7 +2,12 @@
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-🚀 Tech Innovator | Full-Stack Developer | AI Engineer | Problem Solver
+💻 AI Engineer | Full-Stack Developer | Cyber Security Enthusiast
+
+
+🚀 Continuously learning and building with technology!
+
+🔒 Passionate about coding, AI, and securing digital landscapes.
 
 💡 Passionate about merging creativity with technology to build impactful solutions. Constantly learning and evolving with the latest trends in software development and artificial intelligence.
 
@@ -51,6 +56,11 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-2E3440?style=flat-square&logo=security&logoColor=FFFFFF)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-007ACC?style=flat-square&logo=kali-linux&logoColor=FFFFFF)
+![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-FF0000?style=flat-square&logo=hack-the-box&logoColor=FFFFFF)
+![Network Security](https://img.shields.io/badge/-Network%20Security-4682B4?style=flat-square&logo=cisco&logoColor=FFFFFF)
+![Security Analyst](https://img.shields.io/badge/-Security%20Analyst-000000?style=flat-square&logo=protonmail&logoColor=FFFFFF)
 
 
 
