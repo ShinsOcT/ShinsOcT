@@ -1,6 +1,6 @@
 🌟 Hello World! I'm ShinsOcT 🌟
 
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![My GIF](https://raw.githubusercontent.com/ShinsOcT/ShinsOcT/main/assets/This%20pin%20is%20all%20about%20coding.gif)
 
 💻 AI Engineer | Full-Stack Developer | Cyber Security Enthusiast
 
