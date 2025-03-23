@@ -25,7 +25,7 @@ I'm an AI Engineer and Software Developer with a passion for building cool proje
 
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.svg)
 
 
 
