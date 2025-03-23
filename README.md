@@ -8,13 +8,15 @@ I'm an AI Engineer and Software Developer with a passion for building cool proje
 - 🌱 Currently mastering Python, Go, Rust, and more!
 - ⚡ Fun fact: I love solving coding challenges!
 
+
 🚀 **Skills:**
-- 💻 Programming: Python, JavaScript, Go, Rust, C++
+- 💻 Programming: Python, JavaScript, Go, Rust, C++, R, Java, SQL
 - 🌐 Web: HTML, CSS, React, Node.js
-- 🧠 AI & ML: TensorFlow, PyTorch, Scikit-learn
+- 🧠 AI & ML: TensorFlow, PyTorch, Scikit-learn,
 - 🔒 Cybersecurity: Ethical Hacking, Network Security
 - 🗃️ Databases: MySQL, PostgreSQL, MongoDB
 - ☁️ Cloud: AWS, Azure, GCP
+- 
 
 🔥 **What I'm Working On:**
 - Building next-gen AI apps and automation tools.
