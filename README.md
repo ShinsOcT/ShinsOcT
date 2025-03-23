@@ -25,6 +25,6 @@ I'm an AI Engineer and Software Developer with a passion for building cool proje
 
 
 
-![snake gif](https://github.com/ShinsOcT/ShinsOcT/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ShinsOcT/ShinsOcT/blob/output/github-contribution-grid-snake.svg)
 
 
