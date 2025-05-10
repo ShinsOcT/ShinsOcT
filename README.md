@@ -12,7 +12,7 @@
 💡 Passionate about merging creativity with technology to build impactful solutions. Constantly learning and evolving with the latest trends in software development and artificial intelligence.
 
 🚀 **Skills:**
-- 💻 Programming: Python, JavaScript, Go, Rust, C++, R, Java, SQL
+- 💻 Programming: Python, JavaScript, Rust, C++, R, Java, SQL
 - 🌐 Web: HTML, CSS, React, Node.js
 - 🧠 AI & ML: TensorFlow, PyTorch, Scikit-learn,
 - 🔒 Cybersecurity: Ethical Hacking, Network Security
